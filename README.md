@@ -7,8 +7,8 @@
  <a href="https://www.linkedin.com/in/huydq2k1/" alt="huydz2001's linedin">
    <img src="https://img.shields.io/static/v1?style=for-the-badge&message=LinkedIn&color=0A66C2&logo=LinkedIn&logoColor=FFFFFF&label=" />
  </a>
-  <a href="" alt="huydz2001's twitter">
-   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Twitter&color=1DA1F2&logo=Twitter&logoColor=FFFFFF&label=" />
+  <a href="https://www.facebook.com/qhuyy.201/" alt="huydz2001's facebook">
+   <img src="https://img.shields.io/static/v1?style=for-the-badge&message=Facebook&color=1DA1F2&logo=Facebook&logoColor=FFFFFF&label=" />
  </a>
  <a>
    <img src="https://komarev.com/ghpvc/?username=huydz2001&color=ff69b4&style=for-the-badge" />
@@ -42,9 +42,6 @@ I am a software engineer who designs and builds scalable and distributed systems
   <a href="https://www.typescriptlang.org/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" with="50" height="50" alt="typescript" >
   </a>
-  <!-- <a href="https://azure.microsoft.com/en-us/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" with="50" height="50" alt="azure" >
-  </a> -->
   <a href="https://www.docker.com/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" with="50" height="50" alt="docker" >
   </a>
