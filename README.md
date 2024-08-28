@@ -83,5 +83,5 @@ I am a software engineer who designs and builds scalable and distributed systems
   </strong>
 </p>
 <p align="center">
-  <a href="#" alt="meysam hadeli's github stats"><img src="https://github-readme-stats.vercel.app/api?username=huydz2001" /></a>
+  <a href="#" alt="huydz2001's github stats"><img src="https://github-readme-stats.vercel.app/api?username=huydz2001" /></a>
 </p>
